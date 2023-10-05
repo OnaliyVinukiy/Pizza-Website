@@ -7,10 +7,10 @@ function App() {
   return (
     <div className="App">
       <Router>
-      <Navbar/> 
-      <Routes>
-        <Route path='/' exact component={Home}/>
-      </Routes>
+        <Navbar/> 
+        <Routes>
+            <Route path="/" exact Component={Home}/>
+        </Routes>
       </Router>
         
     </div>

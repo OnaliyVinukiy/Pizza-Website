@@ -3,9 +3,9 @@ import React from 'react'
 const Home = () => {
   return (
     <div>
-       <h1>Helloworld</h1>
+       Helloworld
     </div>
   )
 }
 
-export default Home
+export default Home 
